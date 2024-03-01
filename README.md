@@ -24,7 +24,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, nova
 ## Autores
 - [Silvio Cavalcanti](https://github.com/SilvioCavalcantiBonfim)
 - [Rhawann Moraes](https://github.com/Rhawann-Moraes)
-- Nome do Autor 3
+- [Marlon Borges](https://github.com/Marlonsouto)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para mais detalhes.
