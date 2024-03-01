@@ -23,7 +23,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, nova
 
 ## Autores
 - [Silvio Cavalcanti](https://github.com/SilvioCavalcantiBonfim)
-- Nome do Autor 2
+- [Rhawann Moraes](https://github.com/Rhawann-Moraes)
 - Nome do Autor 3
 
 ## Licença
