@@ -15,9 +15,8 @@ Este é um projeto Java desenvolvido para facilitar a organização e gerenciame
 
 ## Requisitos
 
-Java JDK (versão 17 ou superior)
-IDE Java (Eclipse, IntelliJ, NetBeans, etc.)
-Banco de Dados (opcional, dependendo da implementação)
+- Java JDK (versão 17 ou superior)
+- IDE Java (Eclipse, IntelliJ, NetBeans, etc.)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, novas funcionalidades ou reportar problemas encontrados no projeto.
