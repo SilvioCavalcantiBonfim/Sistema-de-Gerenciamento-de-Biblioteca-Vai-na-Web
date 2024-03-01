@@ -1,3 +1,4 @@
+package exception;
 
 public class IllegalUserException extends RuntimeException {
   public IllegalUserException(){

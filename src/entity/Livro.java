@@ -12,7 +12,7 @@ public class Livro {
   private final String Autor;
   private final LocalDate dataDePublicacao;
   private Estado estado;
-  
+
   public Livro(String nome, String autor, LocalDate dataDePublicacao, Estado estado) {
     this.id = count.getAndIncrement();
     this.nome = nome;
@@ -22,7 +22,7 @@ public class Livro {
   }
 
   public Livro(String nome, String autor, LocalDate dataDePublicacao) {
-    this(nome, autor, dataDePublicacao, Estado.NAO_ALUGADO);
+    this(nome, autor, dataDePublicacao, Estado.DISPONIVEL);
   }
 
   public String getNome() {
@@ -93,7 +93,4 @@ public class Livro {
     return true;
   }
 
-  
-  
-  
 }
